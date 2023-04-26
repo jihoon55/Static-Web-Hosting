@@ -7,7 +7,7 @@
 
 
 ## 🌐 서비스 아키텍쳐
-![스크린샷 2023-03-30 150512](https://user-images.githubusercontent.com/118710033/228870474-1c6b8baf-633c-4a98-97a8-b1dec287387f.png)
+![image](https://user-images.githubusercontent.com/118710033/234474069-8dad0eac-470a-4ea3-b4d2-538c75bf1dfd.png)
 
 
 
